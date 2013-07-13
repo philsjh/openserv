@@ -1,0 +1,1 @@
+proc Z {args} {}
